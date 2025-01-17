@@ -26,7 +26,7 @@ fun BottomNavigationBar(navController: NavHostController) {
         BottomNavItem("profile", "Profile", Icons.Default.Person)
     )
 
-    //
+    //bottom
     BottomNavigation(
         backgroundColor = Color(0xFF0D829F)
     ) {
